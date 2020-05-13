@@ -1,1 +1,2 @@
-readme version 4
+git log --pretty=format:"%h - %cn -%cr - %s"
+
